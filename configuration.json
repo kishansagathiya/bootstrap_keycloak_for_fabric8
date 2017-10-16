@@ -1,0 +1,7 @@
+{
+    "realm": "tobedeleted",
+    "enabled": true,
+    "id": "tobedeleted",
+    "adminpassword": "admin",
+    "baseurl":"http://keycloak-kc-kishan.dev.rdu2c.fabric8.io/"
+}
