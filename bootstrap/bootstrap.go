@@ -12,7 +12,7 @@ import (
 	"strings"
 )
 
-const configFilePath = "./bootstrap/configuration.json"
+const configFilePath = "./configuration.json"
 
 type Config struct {
 	Realm         string `json:"realm"`
