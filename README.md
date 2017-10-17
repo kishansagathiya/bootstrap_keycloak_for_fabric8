@@ -1,8 +1,8 @@
 # fabric8-bootstrap-keycloak
 This repository has been created for the issue 92 for the https://github.com/fabric8-services/fabric8-auth repository
 The intentions of this project is to
-    -   Version the Configuration
-    -   Instead of changing configuration manually through Keycloak UI, this let's us make changes in the json and then the code would apply the configuration to our Keycloak
+  - Version the Configuration
+  - Instead of changing configuration manually through Keycloak UI, this let's us make changes in the json and then the code would apply the configuration to our Keycloak 
     
 bootstrap package contains methods for 
         -   parsing json file (bootstrap/configuration.json)
